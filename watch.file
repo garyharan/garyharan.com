@@ -1,0 +1,14 @@
+
+def jekyll(match)
+  puts "running jekyll because of change on #{match[0]}"
+  system("jekyll")
+end
+
+watch( 'index.*' )  {|m| jekyll m }
+watch( '_layouts/*' )  {|m| jekyll m }
+watch( '_posts/*'   )  {|m| jekyll m }
+watch( 'css/*'      )  {|m| jekyll m }
+watch( 'images/*'   )  {|m| jekyll m }
+
+
+

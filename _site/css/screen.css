@@ -1,0 +1,82 @@
+body {
+  font-family:  "Courier", "Helvetica";
+  color: #444;
+  padding: 0px;
+  margin: 40px 0px;
+  text-align: center;
+}
+ul {
+  list-style: none;
+  margin-left: -20px;
+}
+
+h1 {
+  font-size: 51px;
+}
+
+#post h1 {
+  font-size: 31px;
+}
+
+h2, h3 {
+  font-family: "Courier";
+  font-size: 20px;
+  text-align: left;
+}
+#fuzzyline {
+  position: absolute;
+  top: -10px;
+  width: 100%;
+  height: 10px;
+  -moz-box-shadow:    0px 0px 35px rgb(255,156,0);
+  -webkit-box-shadow: 0px 0px 35px rgb(255,156,0);
+  box-shadow:         0px 0px 35px rgb(255,156,0);
+}
+
+section, footer {
+  width: 600px;
+  display: block;
+  margin: auto;
+  text-align: left;
+}
+
+#gary {
+  float: left;
+  margin: 0px 20px 20px 0px;
+  border: 7px solid white;
+  -moz-box-shadow:    0px 0px 10px rgba(0,0,0,50);
+  -webkit-box-shadow: 0px 0px 10px rgba(0,0,0,50);
+  box-shadow:         0px 0px 10px rgba(0,0,0,50);
+}
+
+header nav a {
+  text-decoration: none;
+  margin: 10px 10px;
+  padding: 2px 7px 2px 7px;
+  width: 80px;
+  display: inline-block;
+  background: rgb(255,255,255);
+  border: 3px solid rgb(215,215,215);
+  border-radius: 15px;
+  -moz-border-radius: 15px;
+  font-family: sans-serif;
+  font-size: 12px;
+  color: black;
+  -moz-box-shadow:    0px 5px 10px rgba(0,0,0,50);
+  -webkit-box-shadow: 0px 5px 10px rgba(0,0,0,50);
+  box-shadow:         0px 5px 10px rgba(0,0,0,50);
+}
+
+header nav a:hover {
+  border: 3px solid #CCC;
+  -moz-box-shadow:    0px 5px 10px rgba(0,0,0,50);
+  -webkit-box-shadow: 0px 5px 10px rgba(0,0,0,50);
+  box-shadow:         0px 5px 10px rgba(0,0,0,50);
+}
+header nav a img {
+  position: relative;
+  top: 2px;
+  margin-right: 5px;
+  border: none;
+}
+
