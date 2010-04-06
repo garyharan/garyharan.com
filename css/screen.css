@@ -5,6 +5,16 @@ body {
   margin: 40px 0px;
   text-align: center;
 }
+
+a {
+  color: rgb(170, 112, 0);
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(185, 132, 33);
+  text-decoration: underline;
+}
+
 ul {
   list-style: none;
   margin-left: -20px;
@@ -33,12 +43,13 @@ h2, h3 {
   box-shadow:         0px 0px 35px rgb(255,156,0);
 }
 
-section, footer {
+section, footer, nav {
   width: 600px;
   display: block;
   margin: auto;
   text-align: left;
 }
+
 
 #gary {
   float: left;
@@ -49,34 +60,39 @@ section, footer {
   box-shadow:         0px 0px 10px rgba(0,0,0,50);
 }
 
-header nav a {
+#home nav {
+  padding: 20px;
+}
+#home nav a {
+  background: url(/images/button.png);
+  border: 1px solid #333;
+  -webkit-border-radius:  12px;
+  -moz-border-radius:     12px;
+  border-radius:          12px;
+  margin: 250px 20px;
+  padding: 4px 8px;
+  font-size: 18px;
+  font-family: "Courier New", "Courier", monospace;
+  font-weight: bold;
+  color: #666;
   text-decoration: none;
-  margin: 10px 10px;
-  padding: 2px 7px 2px 7px;
-  width: 80px;
-  display: inline-block;
-  background: rgb(255,255,255);
-  border: 3px solid rgb(215,215,215);
-  border-radius: 15px;
-  -moz-border-radius: 15px;
-  font-family: sans-serif;
-  font-size: 12px;
+}
+#home nav a:hover {
   color: black;
-  -moz-box-shadow:    0px 5px 10px rgba(0,0,0,50);
-  -webkit-box-shadow: 0px 5px 10px rgba(0,0,0,50);
-  box-shadow:         0px 5px 10px rgba(0,0,0,50);
+}
+#post nav a {
+  text-decoration: none;
+  color: #666;
+}
+#post nav a:hover {
+  color: #333;
 }
 
-header nav a:hover {
-  border: 3px solid #CCC;
-  -moz-box-shadow:    0px 5px 10px rgba(0,0,0,50);
-  -webkit-box-shadow: 0px 5px 10px rgba(0,0,0,50);
-  box-shadow:         0px 5px 10px rgba(0,0,0,50);
+p.gist {
+  background: rgba(255,156,0,0.33);
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 0.85em;
 }
-header nav a img {
-  position: relative;
-  top: 2px;
-  margin-right: 5px;
-  border: none;
-}
-

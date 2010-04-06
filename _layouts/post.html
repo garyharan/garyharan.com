@@ -10,7 +10,12 @@
 <div id="fuzzyline"></div>
 
 <header>
+  
 </header>
+
+<nav>
+  <a href="/">« back to home page</a> 
+</nav>
 
 <section>
   {{ content }}
@@ -20,6 +25,7 @@
   
   <div id="disqus_thread"></div>
   <script type="text/javascript">
+    if (window.location.href.indexOf('0.0.0.0') != -1){ var disqus_developer = 1 }
     (function() {
      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
      dsq.src = 'http://garyharansblog.disqus.com/embed.js';
