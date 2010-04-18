@@ -1,0 +1,29 @@
+---
+layout: post
+title: The Ultimate Guide To Getting Nowhere In Life
+---
+h1. {{ page.title }}
+
+p(gist). The best way to never getting anything done is to limit your finances and your options in such a way that you are a slave to the situation you put yourself in.
+
+h2. 1) Get an easy 9 to 5 job
+
+p. First ensure that overtime is not paid and there are no stock options.  It's best if you learn absolutely nothing new at all at this job or if learning something is part of your job it's best if it is non-transferable skills. This will ensure that no other employers see any value in your experience.
+
+h2. 2) Live from pay cheque to pay cheque
+
+p. If you lived a little below your means you could afford to put some money aside.  That's dangerous because it can lead to ideas and goals beyond the ones you accomplished already.  Invest instead in lottery tickets because when you win you'll be able to pay off your credit cards easily.
+
+h2. 3) Don't Have any "Hell-Yeah Money"
+
+p. Hell-yeah money is a financial cushion that saves you from borrowing at the bank when your car breaks down.  It's 3-6 months of living expenses in an accessible high interest rate account.  
+
+p. It's best if you do not strive to get such a fund for yourself. If you want a big screen TV and it happens to have 500$ pricing error at your favourite store you should instead pay for it with your credit card and pay it off for the next 12 years.  That way you'll feel really connected to your TV.
+
+h2. 4) Live Vicariously From Your Couch
+
+p. That's what TV was created for. Consume TV shows about people doing the things you want to be doing.  Reading takes too long anyways.  The best thing about vicarious living from your couch is that you don't really have to learn anything for real!  You just get the benefit of seeing the best parts!
+
+<hr>
+
+p. If you do the opposite of this guide you are in grave danger of having options.  Options to leave your job for one you don't hate.  Options to start your business.  Options to take a vacation right after getting laid off.  Options to reach out and grab your passion by the horns.

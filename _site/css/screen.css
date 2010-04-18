@@ -17,7 +17,7 @@ a:hover {
 
 ul {
   list-style: none;
-  margin-left: -20px;
+  margin-left: -43px;
 }
 
 h1 {
@@ -33,6 +33,7 @@ h2, h3 {
   font-size: 20px;
   text-align: left;
 }
+
 #fuzzyline {
   position: absolute;
   top: -10px;
@@ -50,6 +51,14 @@ section, footer, nav {
   text-align: left;
 }
 
+hr {
+  opacity: 0.5;
+}
+
+footer hr {
+  height: 3px;
+  background: rgb(255,156,0);
+}
 
 #gary {
   float: left;
