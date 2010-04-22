@@ -34,6 +34,16 @@ h2, h3 {
   text-align: left;
 }
 
+blockquote {
+  margin: 1em 2em;
+  padding: .5em 1em;
+  background: rgba(255,156,0, 0.15);
+  border-radius: 10px;
+}
+blockquote p { 
+  margin: 0;
+}
+
 #fuzzyline {
   position: absolute;
   top: -10px;
