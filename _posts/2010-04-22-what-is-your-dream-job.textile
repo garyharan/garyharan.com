@@ -1,0 +1,22 @@
+---
+layout: post
+title: What Is Your Dream Job?
+---
+
+h1. {{ page.title }}
+
+p(gist). If we know what our dream job looks like we can start making it a <a href="http://macournoyer.com/blog/2010/03/23/goals/">goal</a>.  Write it down and you'll have more chances to see it through.
+
+p. I feel so privileged to work in the era of the web.  The internet has been such a liberating force and I believe that it's just the beginning.  Some old dinosaurs are dying and making place for the new.  I want to be that new.
+
+p. In the past 6 months I've lost my job, co-founded a <a href="http://talkerapp.com/">startup</a>, <a href="http://talkerapp.tumblr.com/post/536387940/talker-acquired-by-teambox">sold it</a> and joined another startup to work in the world of wines.  In 6 months I've gone through more jobs than my father did in his entire lifetime.
+
+p. When you get to experience multiple different workplaces you get to discover things you didn't think were possible.  At <a href="http://standoutjobs.com/">StandoutJobs</a> we used group chat as an integral part of our workflow and played video games daily during lunch breaks.  This team worked better together than any other team I've worked with in my life.
+
+p. I think anyone on that team will have a hard time settling with old school type work.   We'd feel less productive and most likely less happy.
+
+p. I've written down what my ideal job should bring me and shared it with friends and family.  I actually went one step further.  I made the promise that if I complained about my job <a href="http://blog.davidchouinard.com/post/537130573/get-the-fuck-out">I will leave it</a>.
+
+bq. My ideal job is one where I would learn transferable skills, be challenged by the experience and change the old ways of doing things. I will run away from artificial ceilings and red tape because I'm too lucky to live today with a passion for the web.
+
+p. What's your ideal job?

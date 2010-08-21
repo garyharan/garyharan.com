@@ -1,0 +1,28 @@
+---
+layout: post
+title: Low Barriers Are A Good Thing
+---
+
+h1. {{ page.title }}
+
+p(gist). High turnover rate only hurts employers marginally.  In some ways it might drive innovation.
+
+p. One of the employees at Mahalo quit and Jason Calacanis decided to insult this person in the form of free advice.
+
+bq(twitter). <img src="http://a1.twimg.com/profile_images/761165212/Screen_shot_2010-03-18_at_6.30.41_PM_bigger.png" height="50" width="50"><a href="http://twitter.com/Jason/status/12621363849" target="_blank">Free advice for entitled Gen Y trophy kids: if you spend 12 months at a company over and over you look like a flake. </a>  <br/> <span>Jason Calacanis</span>
+
+p. What if this very freedom that Calacanis is stigmatizing is the reason why it was so easy for him to build a startup?
+
+p. Imagine a country where you get to interact with -hundreds of people throughout your career- only 14 people.
+
+p. Imagine if the person -with the most talent- with seniority gets the promotion. 
+
+p. Imagine if banks provided incentives to -get a better paying job- stay at your job for years to access a mortgage.
+
+p. That's France for you.  I've worked there and it can get ugly.
+
+p. If turnover rates are too low it might be that unmotivated people stick around.  It might mean that new ideas are seldom shared with your team.  It might mean that really talented people won't come to work for you.
+
+p. More personal freedom can hurt employers in the short term but it creates the kind of environment where startups flourish.
+
+p. Jason you of all people shouldn't spit on that.  You've benefited from it.
